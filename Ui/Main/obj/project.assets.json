@@ -32,8 +32,6 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://172.20.20.9:8083/repository/nuget.org-proxy/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
